@@ -54,7 +54,7 @@ function getTasks(){
       if(apps[c].name == app_name){
         for(var d = 0; d < qtd_apps; d ++){
           for(var e = 0; e < apps[c].tasks.length; e ++){
-            var itemProcess = new Process(apps[c].tasks[e], app_name + " : " + apps[c].tasks[e].id);
+            var itemProcess = new Process(apps[c].tasks[e], app_name + ":" + apps[c].tasks[e].id);
             processesArray.push(itemProcess);
           }
         }
