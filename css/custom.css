@@ -1,0 +1,7 @@
+.table th, .table td{
+    border: 1px solid #dee2e6;
+}
+.btn{
+  margin: 50px;
+  padding: 10px 50px !important;
+}
