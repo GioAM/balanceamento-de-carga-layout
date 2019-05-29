@@ -26,3 +26,13 @@ td.GMP{
     text-align: center;
     margin-left: 5%;
 }
+#tables h5{
+  color: #6c757d;
+  margin-left: 20px;
+}
+#tables h1{
+  margin-left: 20px;
+}
+.page-title{
+  text-align: center;
+}
