@@ -8,12 +8,17 @@ Aplicação mostrando o mapeamento de tarefas para sistemas embarcados com distr
 - **Demo:** https://gioam.github.io/mapeamento-de-tarefas/
 
 --------------------
-
-## Aplicação desenvolvida em JavaScript, CSS e HTML. 
-## Bibliotecas utilizadas: 
+## Desenvolvimento
+Aplicação desenvolvida em JavaScript, CSS e HTML. 
+Bibliotecas utilizadas: 
   - Bootstrap
   - JQuery
-  
-## As informações são lidas através de dois JSONs.
+
+## Entrada
+As informações são lidas através de dois JSONs.
   - Apps: contém as informações das aplicações que irão ser rodadas
   - Tests: contém as informações dos processadores
+  
+## Funcionamento
+
+## Saída
