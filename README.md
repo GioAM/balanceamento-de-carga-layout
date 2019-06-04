@@ -1,4 +1,5 @@
 # Mapeamento de Tarefas
+===============================================
 
 Aplicação mostrando o mapeamento de tarefas para sistemas embarcados com distribuição de carga de trabalho em uma matriz de processadores.
 
@@ -8,11 +9,11 @@ Aplicação mostrando o mapeamento de tarefas para sistemas embarcados com distr
 
 --------------------
 
-##Aplicação desenvolvida em JavaScript, CSS e HTML. 
-##Bibliotecas utilizadas: 
-  -Bootstrap
-  -JQuery
+## Aplicação desenvolvida em JavaScript, CSS e HTML. 
+## Bibliotecas utilizadas: 
+  - Bootstrap
+  - JQuery
   
-##As informações são lidas através de dois JSONs.
-  -Apps: contém as informações das aplicações que irão ser rodadas
-  -Tests: contém as informações dos processadores
+## As informações são lidas através de dois JSONs.
+  - Apps: contém as informações das aplicações que irão ser rodadas
+  - Tests: contém as informações dos processadores
